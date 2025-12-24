@@ -1,0 +1,28 @@
+# API framework
+
+fastapi
+uvicorn
+
+# rag/llm
+langchain
+langchain-community
+langchain-text-splitters
+requests
+
+# vector db
+pgvector
+psycopg2-binary
+sqlalchemy
+
+# embeddings
+sentence-transformers #python framework for creating high quality vector embedding
+
+# text extraction
+pymupdf
+python-docx
+
+# utils
+python-dotenv
+pydantic
+pydantic-settings
+

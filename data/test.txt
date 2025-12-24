@@ -1,0 +1,19 @@
+Introduction a l'Intelligence Artificielle
+
+L'intelligence artificielle (IA) est un domaine de l'informatique qui vise a creer des machines capables de simuler l'intelligence humaine. Elle englobe plusieurs sous-domaines comme le machine learning, le deep learning et le traitement du langage naturel.
+
+Le Machine Learning
+
+Le machine learning est une branche de l'IA qui permet aux ordinateurs d'apprendre a partir de donnees sans etre explicitement programmes. Il existe trois types principaux : l'apprentissage supervise, non supervise et par renforcement.
+
+Le Deep Learning
+
+Le deep learning utilise des reseaux de neurones artificiels avec plusieurs couches (d'ou le terme "deep"). Ces reseaux sont particulierement efficaces pour la reconnaissance d'images, la traduction automatique et la generation de texte.
+
+Les Large Language Models (LLM)
+
+Les LLM comme GPT, Claude ou Mistral sont des modeles de deep learning entraines sur d'enormes quantites de texte. Ils peuvent comprendre et generer du langage naturel de maniere tres convaincante.
+
+RAG (Retrieval-Augmented Generation)
+
+Le RAG est une technique qui combine la recherche d'information avec la generation de texte. Au lieu de s'appuyer uniquement sur ses connaissances internes, le modele recupere d'abord des documents pertinents puis genere une reponse basee sur ces documents. Cela permet de reduire les hallucinations et d'avoir des reponses plus precises et a jour.
